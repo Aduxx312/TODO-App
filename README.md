@@ -25,4 +25,4 @@ Java 21
 Uruchamianie:
 Uruchamianie
 Przejdź do folderu z .jar i uruchom komendę w terminalu:
-java -jar TodoApp-1.0.jar
+java -jar TodoApp Aduxx-1.0.jar
